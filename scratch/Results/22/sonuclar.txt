@@ -1,0 +1,2 @@
+Packet success rate: %99.65
+Average delay per packet: 0.06 milliseconds.
